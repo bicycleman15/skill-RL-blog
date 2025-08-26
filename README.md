@@ -1,3 +1,19 @@
+# New README
+
+Instructions here: https://iclr-blogposts.github.io/2025/submitting/
+
+To setup, do following:
+```bash
+git clone git@github.com:<your-username>/<your-repo-name>.git
+cd <your-repo-name>
+bundle install
+bundle exec jekyll serve --future
+```
+
+The blog can be found in `_posts/skill_RL.md`
+
+> Old Instructions below
+
 # ICLR 2025 Blogposts Track
 
 This is the repository for the blogposts track. This website is based off of the [**al-folio**](https://github.com/alshedivat/al-folio) template.
